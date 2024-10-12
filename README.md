@@ -48,7 +48,7 @@ environment variables.
 
    ```
     APP_NAME= #with Appropriate Value
-    APP_API_URL= #with Appropriate Value
+    APP_API_URL= #with Appropriate Value Example: localhost:8000/api
     DB_CONNECTION= #with Appropriate Value
     DB_HOST= #with Appropriate Value
     DB_PORT= #with Appropriate Value
