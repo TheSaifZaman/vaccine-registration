@@ -102,3 +102,12 @@ environment variables.
 - Configure the mail settings in the `.env` file to enable email functionality.
 
 Now the project should be set up and running with the specified environment variables. Access the application by visiting `The Served Web Link` in the web browser.
+
+## Notes:
+
+- If I get enough time, I will use Full Text Search, Front and Backend Caching for faster Search Result
+- For sending SMS along email notification, I would like to implement abstract factory design pattern.
+
+---
+- I should've added the API Documentation
+- I should've added Test Cases.
